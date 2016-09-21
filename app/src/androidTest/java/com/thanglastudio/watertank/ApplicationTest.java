@@ -1,4 +1,4 @@
-package com.thanglastudio.watertank;
+/* Test */package com.thanglastudio.watertank;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
